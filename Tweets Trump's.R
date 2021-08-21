@@ -250,7 +250,7 @@ The positive sentiment scores are always higher than the negative sentiment scor
 
 ## The end
 Credits: Susan Li 
-#https://github.com/susanli2016/Data-Analysis-with-R/blob/master/Donald-Trump-Tweets.Rmd
+#https://github.com/susanli2016
 Tutoriais de [Julia Silge] (http://juliasilge.com/) e [Yanchang Zhao] (http://www.rdatamining.com/) 
                                                                                                                                                                                                                                                                                                                                    � 2019 GitHub, Inc.
                                                                                                                                                                                                                                                                                                                                    Terms
